@@ -25,15 +25,14 @@ Rust is installed now. Great!
 
 To check the version of rustc and cargo, enter the following command:
 
-`rustc --version `
-`cargo --version`
+`rustc --version && cargo --version`
+
 
 ## Usage
 
 1. Clone the repository:
 
-   ```shell
-   https://github.com/Arjun4522/Rusty-Calculator
+    `https://github.com/Arjun4522/Rusty-Calculator`
    
 2. Navigate to the project directory:
 
