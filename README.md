@@ -36,7 +36,7 @@ To check the version of rustc and cargo, enter the following command:
    
 2. Navigate to the project directory:
 
-   `cd Rusty-calculator/calc/`
+   `cd Rusty-Calculator/calc/`
    
 3. Run using 
 
