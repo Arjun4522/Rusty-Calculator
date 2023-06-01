@@ -73,7 +73,7 @@ fn main() {
     	println!("{}{}{}={}",num1,op,num2,sub);
     }
     
-    if op=="*" {
+    else if op=="*" {
     	
     	println!("Operation: {}",op);
     	
@@ -81,7 +81,7 @@ fn main() {
     	println!("{}{}{}={}",num1,op,num2,into);
     }
     
-    if op=="/" {
+    else if op=="/" {
     	
     	println!("Operation: {}",op);
     	
