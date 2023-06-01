@@ -50,6 +50,13 @@ fn main() {
         
     let op = op.trim();
         
+    if op !="+" || op !="-" || op !="*" || op !="/" {
+    
+        println!("Inavalid Operation.");
+    break
+    
+    }
+        
     if op=="+" {
     	
     	println!("Operation: {}",op);
