@@ -2,6 +2,17 @@
 
 This is a simple calculator program written in Rust. It allows users to input two numbers and perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Features
+
+- Takes user input for two numbers
+- Supports the following operations:
+  - Addition (+)
+  - Subtraction (-)
+  - Multiplication (*)
+  - Division (/)
+- Provides error handling for invalid inputs
+- Allows users to quit the program by entering 'q'
+
 ## Installing Rust
 
 If you’re using Linux, open a terminal and enter the following command:
@@ -16,17 +27,6 @@ To check the version of rustc and cargo, enter the following command:
 
 `rustc --version `
 `cargo --version`
-
-## Features
-
-- Takes user input for two numbers
-- Supports the following operations:
-  - Addition (+)
-  - Subtraction (-)
-  - Multiplication (*)
-  - Division (/)
-- Provides error handling for invalid inputs
-- Allows users to quit the program by entering 'q'
 
 ## Usage
 
